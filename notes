@@ -1,0 +1,54 @@
+Lecture 2:
+ - decimal number can be split by using div operation repeteadly
+ - if we want to append digit to a number multiply that number by 10 and add a digit
+ - to find a prime number we need to loop only up to sqrt(n)
+
+ Lecture 3:
+ - Big O cases
+ - GCD, LCM
+
+ Lecture 4:
+ - Sieve of Eratosthenes
+ - Binary search
+
+ REVIEW LECTURE
+
+Lecture 6:
+-bubble sort O(N^2)
+-selection sort outperform buble as it performs less swaps O(N^2)
+-merging sorted arrays
+-merge sort O(n log n)
+
+Lecture 7:
+-quick sort. best case: n log n. worst case: n^2
+-linked list and its methods
+
+Lecture 8:
+- Stacks
+- Queues
+- Binary tree
+
+Lecture 9:
+- sets
+- Binary search trees and its methods, running time
+- hash functions
+
+Lecture 10:
+- maps
+- hash tables, buckets, load factor, Lookup runs  in O(load factor),
+- priotity queues
+- binary heap
+
+Lecture 11:
+- heapsort: O(N log N), guaranteed run-time, runs in place
+- representing graphs (adjacency matrix/list)
+
+Lecture 12:
+- DFS: recursivly or using stack
+- BFS queue
+
+Lecture 13:
+- states
+- prefix, infix, postfix
+- expression tree
+- parsing expressions
